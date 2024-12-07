@@ -1,5 +1,7 @@
+import Blog from "./page/BlogList/Blog";
+
 function App() {
-  return <div className="text-3xl">Hi</div>;
+  return <Blog />;
 }
 
 export default App;
